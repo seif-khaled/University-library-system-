@@ -1,0 +1,7 @@
+
+
+book name=the dark hallows,id=163538, auther name=tamer hassan,availble quantity=15,issued quantity=2
+
+book name=the shining,id=7125455, auther name=stanley kubrick,availble quantity=150,issued quantity=25
+book name=shinza and the dealthy hallows,id=10323223, auther name=abo shinza el sory ,availble quantity=5,issued quantity=1500
+

@@ -1,0 +1,46 @@
+﻿  university _library_system.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(29,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(41,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(121,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(318,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(416,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(450,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(462,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(536,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(733,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(832,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(868,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(888,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(992,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(1087,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(1186,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(1227,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(1227,47): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(1279,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(1337,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(1369,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(1407,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(1443,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(1459,12): warning C4101: 'cc': unreferenced local variable
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(1670,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(1682,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(1884,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(1921,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(1962,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(1974,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(1986,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(1998,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(2082,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(2339,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(2356,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(2456,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(2697,12): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(2709,12): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(311): warning C4715: 'admin::login': not all control paths return a value
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(727): warning C4715: 'librarian::login': not all control paths return a value
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(212): warning C4715: 'admin::get_admin': not all control paths return a value
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(990): warning C4715: 'student::add_students': not all control paths return a value
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(1085): warning C4715: 'student::get_student': not all control paths return a value
+C:\Users\seif\source\repos\university _library_system\university _library_system\university _library_system.cpp(628): warning C4715: 'librarian::get_librarian': not all control paths return a value
+  university _library_system.vcxproj -> C:\Users\seif\source\repos\university _library_system\Debug\university _library_system.exe
